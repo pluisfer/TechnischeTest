@@ -1,0 +1,20 @@
+pasos para hacer una prueba tecnica
+
+primero crear un folder de test crear el package.json
+
+npm init -y
+
+intalar de modo desarrollo la libreria jest
+
+npm i -D jest
+
+para configurarlo correr comando
+
+npx jest --init
+
+correr las opciones
+
+crear dos ficheros el del codigo fuente y el del test en js
+
+
+hay que hacer TDD 
